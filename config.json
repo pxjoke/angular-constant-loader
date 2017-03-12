@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "restRoot": "https://empress1.mld-idv.projects.epam.com/2.0/rest/",
+    "helpRestRoot": "https://empress1.mld-idv.projects.epam.com/2.0/help/"
+  },
+
+  "test": {
+    "restRoot": "rest/",
+    "helpRestRoot": "help/"
+  },
+
+  "stable": {
+    "restRoot": "/other/path/to/rest",
+    "helpRestRoot": "https://empress1.mld-idv.projects.epam.com/2.0/help/"
+  },
+
+  "prod": {
+    "restRoot": "/other/path/to/rest",
+    "helpRestRoot": "https://empress1.mld-idv.projects.epam.com/2.0/help/"
+  },
+
+
+  "mock": {
+    "restRoot": "http://private-2f65f-mld.apiary-mock.com/",
+    "helpRestRoot": "https://empress1.mld-idv.projects.epam.com/2.0/help/"
+  },
+
+  "backend": {
+    "restRoot": "http://localhost:1234/rest/",
+    "helpRestRoot": "https://empress1.mld-idv.projects.epam.com/2.0/help/"
+  }
+}
